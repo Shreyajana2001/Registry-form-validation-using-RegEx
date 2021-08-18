@@ -1,6 +1,7 @@
 # Registry-form-validation-using-RegEx
 
 A simple registration form made with labels and inputs which changes colour if the field value is unacceptable .
+
 Try at:https://shreyajana2001.github.io/Registry-form-validation-using-RegEx/
 
 Validations:
