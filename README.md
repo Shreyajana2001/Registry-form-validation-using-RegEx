@@ -32,5 +32,5 @@ Accepted Formats Examples : 55555
 Accepted Formats Examples : uhshAHbhx9
 ```
 
-If input other than the accepted formats is entered then it makes the input red for the user to notice and make correction.
+If input other than the accepted formats is entered then it makes the input red for the user to notice and make correction. 
 
